@@ -24,7 +24,7 @@ def generate_numbers(limit: int):
 # def convert_to_percentage(number: int):
 #     return number / 100
 
-# lambda x: x / 100
+# lambda x : x / 100
 
 
 percentages = generate_numbers(100)
