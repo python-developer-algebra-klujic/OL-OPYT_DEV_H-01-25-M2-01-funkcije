@@ -42,14 +42,6 @@ def is_even_number(number):
 
 
 
-
-
-
-
-
-
-
-
 # glavni dio programa
 list_of_numbers = generate_numbers(35)
 
